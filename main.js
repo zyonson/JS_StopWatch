@@ -7,11 +7,8 @@
   let reset = document.querySelector('#reset');
   
   let startTime;
-  
   let elapsedTime = 0;
-  
   let timerId;
-  
   let timeToadd = 0;
   
   function updateTimetText(){
